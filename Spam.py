@@ -1,0 +1,1 @@
+print("\nLets Spam"*10000)
